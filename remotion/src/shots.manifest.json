@@ -8,6 +8,22 @@
   "transparent": false
  },
  {
+  "id": "EducationalPrototype",
+  "durationInSeconds": 8,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
+  "id": "Short1Chess",
+  "durationInSeconds": 42,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "transparent": false
+ },
+ {
   "id": "Short10Fees",
   "durationInSeconds": 42,
   "fps": 30,
@@ -25,14 +41,6 @@
  },
  {
   "id": "Short12Orbit",
-  "durationInSeconds": 42,
-  "fps": 30,
-  "width": 1080,
-  "height": 1920,
-  "transparent": false
- },
- {
-  "id": "Short1Chess",
   "durationInSeconds": 42,
   "fps": 30,
   "width": 1080,
