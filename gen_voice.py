@@ -38,11 +38,21 @@ SCRIPT_LINES = [
     "This is the exact same moon.",
     "So why does it look so different?",
     "It's called the Moon Illusion.",
+    "It's one of the oldest optical illusions known to science.",
+    "Ancient astronomers were puzzled by it thousands of years ago.",
     "Your brain compares the moon to what's around it.",
     "Near the horizon, buildings and trees make it look huge.",
     "High in the sky, with nothing to compare it to, it shrinks.",
+    "Scientists still debate exactly why this happens.",
+    "One theory says your brain treats the sky like a flattened dome.",
+    "Objects near the horizon seem farther away than objects overhead.",
+    "So your brain assumes the horizon moon must be bigger.",
+    "You can test this yourself tonight.",
+    "Hold a coin at arm's length next to the moon.",
+    "It covers the exact same amount of space, every single time.",
     "The moon never changed size at all.",
     "Only your perception did.",
+    "And now, you'll never look at the moon the same way again.",
 ]
 
 VOICE = "en-US-GuyNeural"  # free Edge TTS voice; browse more with `edge-tts --list-voices`
